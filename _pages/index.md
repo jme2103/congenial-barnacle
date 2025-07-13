@@ -6,4 +6,4 @@ permalink: /index.html
 
 This is some content.
 
-<img src="/assets/images/profile.jpg" alt="Girl in a jacket" width="150">
+<img src="{{site.baseurl}}/assets/images/profile.jpg" alt="Girl in a jacket" width="150">
