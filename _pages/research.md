@@ -2,13 +2,21 @@
 layout: page
 title: Research
 permalink: /research.html
+nav-order: 1
 ---
 
-My research interests lie primarily within Riemannian geometry. In particular, it often involve homogeneous spaces and sometimes intersect with dynamical systems, representation theory, Lie theory, and metric geometry.
+My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and have occasionally intersected with dynamical systems, representation theory, Lie theory, and metric geometry.
 
 <h3>Publications</h3>
 
-<div class="csl-bib-body">
-  <div data-csl-entry-id="Knapp:AQuickProof" class="csl-entry">Knapp AW (1996) A quick proof of the classification of simple real Lie algebras. Proc Amer Math Soc 124:3257–3259. https://doi.org/10.1090/S0002-9939-96-03448-X</div>
+<div class="csl-bib-body" style="margin-bottom: 20px; margin-top: 20px;">
+  <div data-csl-entry-id="MR4304865" class="csl-entry"><b>Periodic magnetic geodesics on Heisenberg manifolds</b>. with Gornet R, Mast MB (2021) <br> Ann Global Anal Geom 60:647–685. <a href="https://doi.org/10.1007/s10455-021-09787-0">10.1007/s10455-021-09787-0</a> - <a href="https://arxiv.org/abs/2002.06982">arXiv</a></div>
 </div>
 
+<div class="csl-bib-body" style="margin-bottom: 20px; margin-top: 20px;">
+  <div data-csl-entry-id="MR3721596" class="csl-entry"><b>Morse theory for the uniform energy</b>. with Adelstein IM (2017) <br> J Geom 108:1193–1205. <a href="https://doi.org/10.1007/s00022-017-0404-0">10.1007/s00022-017-0404-0</a> - <a href="https://arxiv.org/abs/1609.09357">arXiv</a></div>
+</div>
+
+<div class="csl-bib-body" style="margin-bottom: 20px; margin-top: 20px;">
+  <div data-csl-entry-id="epstein2016topological" class="csl-entry"><b>Topological entropy of left-invariant magnetic flows on 2-step nilmanifolds</b>. (2016) <br> Nonlinearity 30:1 <a href="https://doi.org/10.1088/0951-7715/30/1/1">10.1088/0951-7715/30/1/1</a> - <a href="https://arxiv.org/abs/1512.02612">arXiv</a></div>
+</div>
