@@ -4,7 +4,7 @@ title: Research
 permalink: /research.html
 ---
 
-My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and sometimes intersect with dynamical systems, representation theory, Lie theory, and metric geometry.
+My research interests lie primarily within Riemannian geometry. In particular, it often involve homogeneous spaces and sometimes intersect with dynamical systems, representation theory, Lie theory, and metric geometry.
 
 <h3>Publications</h3>
 
