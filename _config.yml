@@ -18,6 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+############# MY COMMENTS #############
+# comment out the baseurl variable in order to view properly while developing locally
+# uncomment the baseurl when checking into repo to view properly on GitHub Pages
+
+# files for customization are stored at /usr/local/rvm/gems/ruby-3.4.1/gems/minima-2.5.1
+# you can get this by executing `bundle show minima` in the terminal and opening the
+# path in a new window
+
 title: Jonathan Epstein
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
