@@ -5,7 +5,14 @@ permalink: /research.html
 nav-order: 1
 ---
 
-My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and have occasionally intersected with dynamical systems, representation theory, Lie theory, and metric geometry.
+<table style="border: none;">
+  <tr>
+    <td style="width: 70%; border: none; padding-left: 0px; padding-right: 20px; vertical-align: top;">My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and have occasionally intersected with dynamical systems, representation theory, Lie theory, and metric geometry.</td>
+    <td style="width: 30%; border: none; padding: 10px; padding-left: 20px; text-align: center; vertical-align: top;"><img src="{{site.baseurl}}/assets/images/guadalupe.jpg" alt="Jonathan Epstein" width=""></td>
+  </tr>
+</table>
+
+
 
 <h3>Publications</h3>
 
