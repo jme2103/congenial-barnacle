@@ -8,7 +8,7 @@ nav-order: 1
 <table style="border: none;">
   <tr>
     <td style="width: 70%; border: none; padding-left: 0px; padding-right: 20px; vertical-align: top;">My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and have occasionally intersected with dynamical systems, representation theory, Lie theory, and metric geometry.</td>
-    <td style="width: 30%; border: none; padding: 10px; padding-left: 20px; text-align: center; vertical-align: top;"><img src="{{site.baseurl}}/assets/images/guadalupe.jpg" alt="Jonathan Epstein" width=""></td>
+    <td style="width: 30%; border: none; padding: 10px; padding-left: 20px; text-align: center; vertical-align: top;"><img src="{{site.baseurl}}/assets/images/vadstena1_square.jpg" alt="Jonathan Epstein" width=""></td>
   </tr>
 </table>
 
@@ -27,3 +27,7 @@ nav-order: 1
 <div class="csl-bib-body" style="margin-bottom: 20px; margin-top: 20px;">
   <div data-csl-entry-id="epstein2016topological" class="csl-entry"><b>Topological entropy of left-invariant magnetic flows on 2-step nilmanifolds</b>. (2016) <br> Nonlinearity 30:1 <a href="https://doi.org/10.1088/0951-7715/30/1/1">10.1088/0951-7715/30/1/1</a> - <a href="https://arxiv.org/abs/1512.02612">arXiv</a></div>
 </div>
+
+<br>
+
+<img src="{{site.baseurl}}/assets/images/goldsworthy_banner.jpg" alt="Jonathan Epstein" width="">
