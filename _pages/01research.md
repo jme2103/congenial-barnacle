@@ -5,14 +5,14 @@ permalink: /research.html
 nav-order: 1
 ---
 
+<img src="{{site.baseurl}}/assets/images/vadstena1_square.jpg" class="intro-picture">
 
-<img src="{{site.baseurl}}/assets/images/vadstena1_square.jpg" class="float-right-picture">
-
-<div>
+<div class="intro-text">
   <p>My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and have occasionally intersected with dynamical systems, representation theory, Lie theory, and metric geometry.</p>
 </div>
 
-<br><br><br><br><br><br>
+<br style="clear: both">
+
 
 <h3>Publications</h3>
 

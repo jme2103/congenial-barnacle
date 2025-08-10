@@ -4,13 +4,16 @@ title: Miscellany
 permalink: /miscellany.html
 ---
 
-<img src="{{site.baseurl}}/assets/images/roksten2_square.jpg" class="float-right-picture">
+<img src="{{site.baseurl}}/assets/images/roksten2_square.jpg" class="intro-picture">
 
-<div>
-  <p>content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content</p>
+<div class="intro-text">
+  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+  <br><br>
+
+  Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
 </div>
 
-
-<br>
+<br style="clear: both">
 
 <img src="{{site.baseurl}}/assets/images/goldsworthy_banner.jpg" alt="Jonathan Epstein" width="">
