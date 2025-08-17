@@ -9,6 +9,8 @@ nav-order: 1
 
 <div class="intro-text">
   <p>My research interests lie primarily within Riemannian geometry. In particular, my projects often involve homogeneous spaces and have occasionally intersected with dynamical systems, representation theory, Lie theory, and metric geometry.</p>
+
+  <p>I am also interested in undergraduate mathematics education and political geometry. Regarding the latter, I am collaborating with undergraduates to study entropy-based statistics on the universe of districting plans.</p>
 </div>
 
 <br style="clear: both">
@@ -30,6 +32,16 @@ nav-order: 1
 
 <br>
 
+<h3>Publications in Undergraduate Mathematics Education</h3>
 
+<p>Stewart, S., Epstein, J. (2020).  Linear Algebra Thinking in the Embodied, Symbolic and Formal Worlds: Students'  Reasoning behind Preferring certain Worlds. In Karunakaran, S. S., Reed, Z., & Higgins, A. (Eds.). <i>Proceedings of the 23rd Annual Conference on Research in Undergraduate Mathematics Education</i>. Boston, MA. (pp. 546-553)</p>
+
+<p>Stewart, S., Epstein, J., Troup, J. (2019) <i>Leading students towards the formal world of mathematical thinking: a mathematician’s reflections on teaching eigentheory</i>, International Journal of Mathematical Education in Science and Technology, 50:7, 1011-1023, DOI: <a href="https://doi.org/10.1080/0020739X.2019.1657598">10.1080/0020739X.2019.1657598</a></p>
+
+<p>Stewart, S., Epstein, J., Troup, J., & McKnight, D. (2019). A mathematician's deliberation in reaching the formal world and students' world views of the eigentheory. In Jankvist, U. T., Van den Heuvel-Panhuizen, M., & Veldhuis, M. (Eds.). <i>Proceedings of the Eleventh Congress of the European Society for Research in Mathematics Education</i>, pp. 4835-4842.  (CERME11, February 6-10, 2019) . Utrecht, the Netherlands: Freudenthal Group & Freudenthal Institute, Utrecht University and ERME.</p>
+
+<p>Stewart, S., Epstein, J., Troup, J., & McKnight, D. (2019). An Analysis of a Mathematician's Reflections on Teaching Eigenvalues and Eigenvectors: Moving between Embodied, Symbolic and Formal Worlds of Mathematical Thinking.  In Weinberg, A., Moore-Russo, D., Wawro, M., & Soto, H. (Eds.) <i>Proceedings of the 22nd  Annual Conference on Research in Undergraduate Mathematics Education.</i> (pp. 586-593). Oklahoma.</p>
+
+<br>
 
 <img src="{{site.baseurl}}/assets/images/lookout1_banner.jpg" alt="Jonathan Epstein" width="">

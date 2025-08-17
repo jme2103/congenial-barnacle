@@ -28,7 +28,7 @@ These are some corners of the internet that I find quite pleasant.
 
 <br style="clear: both">
 
-Here are 20 steps in a random walk through the space of all councilmanic districting plans for Baltimore County. One of the plans is the final recommendation from the 2025 Redistricting Commission. Each step in the Markov chain is taken using the recom algorithm.
+This is a visualization of 20 steps in a random walk through the space of all councilmanic districting plans for Baltimore County. One of the plans is the final recommendation from the <a href="https://countycouncil.baltimorecountymd.gov/redistricting/2025-redistricting-commission/">2025 Redistricting Commission</a>. Each step in the Markov chain is taken using the recom algorithm.
 
 
 <img src="{{site.baseurl}}/assets/images/balco_chain.gif" class="center">
