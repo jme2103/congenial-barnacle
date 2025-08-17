@@ -30,6 +30,6 @@ nav-order: 1
 
 <br>
 
-<img src="{{site.baseurl}}/assets/images/balco_chain.gif">
+
 
 <img src="{{site.baseurl}}/assets/images/lookout1_banner.jpg" alt="Jonathan Epstein" width="">
